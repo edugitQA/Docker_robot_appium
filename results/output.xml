@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1.1 (Python 3.12.3 on linux)" generated="2024-11-06T22:09:20.930364" rpa="false" schemaversion="5">
+<suite id="s1" name="Docker Rf" source="/home/edu/Documentos/docker_rf">
+<suite id="s1-s1" name="Teste" source="/home/edu/Documentos/docker_rf/teste.robot">
+<test id="s1-s1-t1" name="teste" line="4">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>hellow word</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-11-06T22:09:20.964985" elapsed="0.000710"/>
+</kw>
+<status status="PASS" start="2024-11-06T22:09:20.961147" elapsed="0.005068"/>
+</test>
+<status status="PASS" start="2024-11-06T22:09:20.958154" elapsed="0.009303"/>
+</suite>
+<status status="PASS" start="2024-11-06T22:09:20.933899" elapsed="0.035366"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Docker Rf">Docker Rf</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="Teste">Docker Rf.Teste</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
