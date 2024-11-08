@@ -1,2 +1,2 @@
 *** Settings ***
-Library    AppiumLibrary
+Library    AppiumLibrary    timeout=30
