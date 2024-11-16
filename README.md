@@ -50,5 +50,4 @@ Siga os passos abaixo para configurar o ambiente de teste:
    ```bash
    docker run -v $(pwd)/tests:/home/robot/tests robot-appium
 
-
-
+obs: projeto pausado
